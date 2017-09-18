@@ -14,7 +14,7 @@ The purpose of this repository is document the existing support for numerical co
 
 ## People working in this space
 
-[Marco Zocca](https://github.com/ocramz)
+[Marco Zocca](https://github.com/ocramz)  
 [Carter Schonwald](https://github.com/cartazio)
 
 ## Tools
@@ -25,16 +25,14 @@ The purpose of this repository is document the existing support for numerical co
 | [Frames](https://hackage.haskell.org/package/Frames)  | Data frames in Haskell                         |
 | [grenade](https://github.com/HuwCampbell/grenade)     | Deep learning                                  |
 | [numerical](https://github.com/wellposed/numerical)   | pre-alpha numerical package                    |
-| [ad](https://hackage.haskell.org/package/ad)          | Automatic differentiation (by Ed)              |
+| [ad](https://hackage.haskell.org/package/ad)          | Automatic differentiation                      |
 | [jupyter](https://jupyter.org/)                       | Notebook-style web app for working with data   |
 | [haskell.do](http://haskell.do/)                      | Notebook-style web thing for Haskell           |
 | [hakaru](https://github.com/hakaru-dev/hakaru)        | Probabilistic programming                      |
 
 ## Other groups
 
-[theam](https://theam.io)
-
-[data Haskell](http://www.datahaskell.org/): Open source community around doing data science in Haskell
+[Data Haskell](http://www.datahaskell.org/): Open source community around doing data science in Haskell
 
 ## Books
 
