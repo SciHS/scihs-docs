@@ -17,3 +17,31 @@ The purpose of this repository is document the existing support for numerical co
   — `array` provides a basic array interface for boxed/unboxed and immutable/mutable arrays with generic indexing
 * [Array fusion with vector](https://www.tweag.io/posts/2017-10-12-vector-package.html)
   — `vector` provides collective operations for sequential, int-indexed boxed & unboxed arrays
+
+## Some people working in this space
+
+[Marco Zocca](https://github.com/ocramz)  
+[Carter Schonwald](https://github.com/cartazio)
+
+## Tools
+
+| Project                                               | Description                                    |
+|:------------------------------------------------------|:-----------------------------------------------|
+| [hmatrix](https://hackage.haskell.org/package/hmatrix)| Matrix operations in Haskell                   |
+| [Frames](https://hackage.haskell.org/package/Frames)  | Data frames in Haskell                         |
+| [grenade](https://github.com/HuwCampbell/grenade)     | Deep learning                                  |
+| [numerical](https://github.com/wellposed/numerical)   | pre-alpha numerical package                    |
+| [ad](https://hackage.haskell.org/package/ad)          | Automatic differentiation                      |
+| [jupyter](https://jupyter.org/)                       | Notebook-style web app for working with data   |
+| [haskell.do](http://haskell.do/)                      | Notebook-style web thing for Haskell           |
+| [hakaru](https://github.com/hakaru-dev/hakaru)        | Probabilistic programming                      |
+
+## Other groups
+
+[Data Haskell](http://www.datahaskell.org/): Open source community around doing data science in Haskell
+
+## Books
+
+[Haskell data analysis cookbook](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-cookbook)
+
+[Learning Haskell data analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-haskell-data-analysis)
