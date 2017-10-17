@@ -9,10 +9,16 @@ The purpose of this repository is document the existing support for numerical co
 
 [Tweag I/O](https://tweag.io) is currently running a series of blog post that provides an overview over the array programming support in Haskell — with a focus on well maintained packages that have seen an uptake by the community.
 
-* [Array programming in Haskell](https://www.tweag.io/posts/2017-08-09-array-programming-in-haskell.html)
+* [Array programming in Haskell](https://www.tweag.io/posts/2017-08-09-array-programming-in-haskell.html) 
+  — overview over the most widely used array packages
 * [Enter the matrix, Haskell style](https://www.tweag.io/posts/2017-08-31-hmatrix.html)
+  — `hmatrix` provides BLAS, LAPACK & GSL functionality in Haskell
+* [Immutability and unboxing in array programming](https://www.tweag.io/posts/2017-09-27-array-package.html)
+  — `array` provides a basic array interface for boxed/unboxed and immutable/mutable arrays with generic indexing
+* [Array fusion with vector](https://www.tweag.io/posts/2017-10-12-vector-package.html)
+  — `vector` provides collective operations for sequential, int-indexed boxed & unboxed arrays
 
-## People working in this space
+## Some people working in this space
 
 [Marco Zocca](https://github.com/ocramz)  
 [Carter Schonwald](https://github.com/cartazio)
